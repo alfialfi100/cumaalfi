@@ -1,0 +1,10 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "[jsonc]": {
+        
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    }
+}
